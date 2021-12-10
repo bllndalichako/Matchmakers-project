@@ -9,7 +9,7 @@
 using namespace std;
 typedef map<string, string> Couples;
 #include <QApplication>
-string PATH = "/Users/sammymasri/Desktop/Project3COP/dataset/names.csv";
+string PATH = "dataset/names.csv";
 
 Couples Matchmaking2(){
 
